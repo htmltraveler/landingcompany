@@ -1,0 +1,260 @@
+.menu
+{
+ text-align:center;
+ position:fixed ;
+ top:0;
+ background-color: white;
+ opacity:0.8;
+ width:100%;
+}
+
+.menu a
+{
+ margin:30px ;
+ color:black;
+ text-decoration:none;
+}
+
+.menu a:hover
+{
+ background-color:#D3D3D3;
+}
+
+.text
+{
+ text-align:center ;
+}
+
+.header
+{
+ background-image:url(polygons.png) ;
+ background-repeat:no-repeat;
+ padding:200px 0px;
+ background-position:center bottom ;
+ text-align: center;
+ color : white;
+ margin-top:17px ;
+ background-attachment:fixed ;
+
+}
+
+.header a
+{
+ background-color: white;
+padding:7px 15px ;
+border-radius:10px ;
+text-decoration: none;
+color: black;
+}
+
+.text
+{
+ max-width:1200px ;
+ margin:0 auto;
+
+}
+
+.text img 
+{
+ float:right ;
+ width:400px;
+
+}
+
+.text p
+{
+ text-align:justify;
+}
+
+.employer
+{
+ display:inline-block ;
+ width:20%;
+ margin:12px ;
+border:2px whitesmoke solid;
+box-shadow:1px 1px 5px 3px gray; 
+padding:8px;
+text-align:left ;
+}
+
+.team img 
+{
+ width:100%;
+}
+
+.team h1, .team h2
+{
+ text-align: center;
+ width:450px;
+ margin: 0 auto;
+}
+
+.team
+{
+ text-align: center;
+}
+
+.employer h3
+{
+ font-weight:400;
+ font-size:20px;
+}
+
+.employer h4
+{
+opacity:0.5 ;
+}
+
+.employer a
+{
+ background-color:#4682B4 ;
+ padding:7px 0px;
+ border-radius:9px ;
+ text-align: center;
+ width:100%;
+ display:inline-block;
+ color:white;
+ text-decoration:none;
+
+}
+
+.prices
+{
+background-color:gray;
+
+}
+
+.prices h1, .prices h5
+{
+ text-align: center;
+ color: white;
+ font-weight:normal;
+}
+
+span
+{
+ font-weight:bold;
+}
+
+li
+{
+ list-style-type:none ;
+ border-bottom:1px solid black ;
+ padding:10px 0px;
+ text-align: center;
+ background-color: white;
+}
+
+.tarif
+{
+ background-color:black;
+ color:white;
+}
+
+li a
+{
+ background-color:black;
+ color: white;
+ border-radius:5px;
+ text-decoration:none;
+ padding:4px 8px;
+}
+
+.prices ol
+{
+    width:30%;
+    display:inline-block;
+
+
+}
+
+.tarif
+{
+ text-align: center;
+}
+
+.price 
+{
+ font-weight:bold;
+ font-size:28px ;
+}
+
+.period
+{
+ opacity: 50%;
+}
+
+.pro
+{
+ background-color:#4682B4 ;
+}
+
+
+form
+{
+ text-align: center;
+ margin:auto;
+ padding-top:10px  ;
+
+}
+
+button
+{
+ background-color: black;
+ border-radius:9px;
+ color:white;
+ padding:7px;
+
+}
+
+
+
+input,textarea
+{
+ padding: 6px;
+ margin: 7px;
+ display:block;
+ width:80%;
+}
+
+.email
+{
+ background-image:url(mail.png);
+ background-repeat:no-repeat;
+ padding:2px 26px;
+ background-position:left center ;
+}
+.number
+{
+ background-image:url(phone.png);
+ background-repeat: no-repeat;
+ padding:2px 26px;
+ background-position:left center ;
+}
+
+.place
+{
+ background-image:url(address.png);
+ background-repeat:no-repeat;
+ padding:2px 26px ;
+ background-position: left center;
+}
+
+h1,h3
+{
+ text-align:center;
+
+}
+
+.rights p
+{
+ background-color:black;
+ padding:0px;
+ margin:14px 0px;
+ color:white;
+}
+
+ol 
+{
+ min-width:400px;
+}

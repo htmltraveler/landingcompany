@@ -1,0 +1,53 @@
+@media (max-width: 575px)
+{.menu
+	{
+		position:static ;
+
+
+	}
+  .menu a
+  {
+    width:100% ;
+    padding:20px 0px ;
+    display:block;
+  }
+  .header
+  {
+    padding:20px 0px;
+    margin-top:0px;
+    background-size:cover ;
+    background-position:center center;
+    min-height:200px ;
+
+
+  }
+
+  .header h1
+  {
+    font-size:1.5em ;
+  }
+
+  .employer
+  {
+    display:block;
+    width:80% ;
+  }
+
+  ol
+  {
+    display:block;
+    width:90%;
+  }
+
+  .regg
+  {
+    display:block;
+    width:80%;
+    margin:0;
+  }
+  body
+  {
+    margin:0;
+  }
+
+}
